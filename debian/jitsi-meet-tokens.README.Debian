@@ -1,0 +1,7 @@
+Token authentication plugin for Sing Along
+----------------------------
+
+Sing Along is a WebRTC video conferencing application. This package contains
+Prosody plugin which enables token authentication in Sing Along installation.
+
+ -- Pawel Domas <pawel.domas@jitsi.org>  Mon, 2 Nov 2015 14:45:00 -0600
